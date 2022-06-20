@@ -10,6 +10,6 @@ A Scraper that collect the data (Price, Name of the item, Seller) from each item
   Language: Python 3
   
   
- Results are in a csv table, but it's possible to put them in a graphic, and so on.
+ Results are in a csv table, but it's possible to put them in a graphic for instance.
  If you want more informations, email me. 
         
