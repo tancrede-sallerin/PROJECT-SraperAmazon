@@ -11,5 +11,5 @@ A Scraper that collect the data (Price, Name of the item, Seller) from each item
   
   
  Results are in a csv table, but it's possible to put them in a graphic for instance.
- If you want more informations, email me. 
+ For more information, email me ;)
         
